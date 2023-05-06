@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back End Development**
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android, Kotlin, Java, Python, Django, SpringBoot**
 
 - 📫 How to reach me **aakash.chaturvedi.43@gmail.com**
 
