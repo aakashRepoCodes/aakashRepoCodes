@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Media Player applications & Dockerization**
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **React native apps development**
 
 - 💬 Ask me about **Android, Kotlin, Java, Python, Django, SpringBoot**
 
