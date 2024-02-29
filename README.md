@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on **Android Media Player applications & Dockerization**
+- 🔭 I’m currently working on **Python BackEnd Development with Flask & Deployments**
 
 - 🌱 I’m currently learning **React native apps development**
 
